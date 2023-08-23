@@ -5,7 +5,7 @@ Here are some of my past and ongoing projects, which I think are pretty cool. No
 **I am the main developer for** (more recent projects are listed first):
 
 + [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl): Implements the knockoff filter framework for variable selection, which performs conditional independence testing and controls the FDR (false discovery rate)
-+ [GhostKnockoffGWAS.jl](https://github.com/biona001/GhostKnockoffGWAS): Package for performing knockoff-based canalysis for GWAS summary statistics data
++ [GhostKnockoffGWAS.jl](https://github.com/biona001/GhostKnockoffGWAS): Package for performing knockoff-based analysis for GWAS summary statistics data
 + [EasyLD.jl](https://github.com/biona001/EasyLD.jl): Julia utilities for downloading and reading LD (linkage disequilibrium) matrices stored in Hail's `BlockMatrix` format
 + [knockoffspy](https://github.com/biona001/knockoffspy): A Python package that provides a direct wrapper over [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl)
 + [knockoffsr](https://github.com/biona001/knockoffsr): A R package that provides a direct wrapper over [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl)
