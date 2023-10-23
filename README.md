@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Here are some of my past and ongoing projects, which I think are pretty cool. Not all projects are being actively developed, but I will certainly respond to issues and pull requests. 
 
 **I am the main developer for** (more recent projects are listed first):
