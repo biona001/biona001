@@ -2,6 +2,7 @@ Here are some of my past and ongoing projects, which I think are pretty cool. No
 
 **I am the main developer for** (more recent projects are listed first):
 
++ [RootCauseDiscovery](https://github.com/Jinzhou-Li/RootCauseDiscovery): Python and Julia package for detecting disease-causing genes in rare disease patients from gene expression data
 + [GhostKnockoffGWAS](https://github.com/biona001/GhostKnockoffGWAS): Package for performing knockoff-based analysis for GWAS summary statistics data
 + [Ghostbasil.jl](https://github.com/biona001/Ghostbasil.jl): (WIP) Provides Julia wrappers to the C++ code of [ghostbasil](https://github.com/JamesYang007/ghostbasil)
 + [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl): Implements the knockoff filter framework for variable selection, which performs conditional independence testing and controls the FDR (false discovery rate)
@@ -17,6 +18,7 @@ Here are some of my past and ongoing projects, which I think are pretty cool. No
 
 **I am a contributor for** (at least 5 commits):
 
++ [bge_analysis](https://github.com/atgu/bge_analysis): Python, R, and Julia code for imputation and quality control scripts used for the blended genome-exome (BGE) data. 
 + [QuasiCopula.jl](https://github.com/OpenMendel/QuasiCopula.jl): Implements a new class of distribution (Quasi-Copulas) that captures correlation among non-Gaussian random variables efficiently
 + [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl): Julia package for handling binary PLINK formatted data. It has the **fastest** (matrix)-(vector) multiplication routine for compressed PLINK files as far as I know.
 + [MendelKinship.jl](https://github.com/OpenMendel/MendelKinship.jl): Calculates various empirical and theoretical kinship coefficients, based on pedigree or genotype data.
