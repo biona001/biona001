@@ -23,3 +23,11 @@ Here are some of my past and ongoing projects, which I think are pretty cool. No
 + [SnpArrays.jl](https://github.com/OpenMendel/SnpArrays.jl): Julia package for handling binary PLINK formatted data. It has the **fastest** (matrix)-(vector) multiplication routine for compressed PLINK files as far as I know.
 + [MendelKinship.jl](https://github.com/OpenMendel/MendelKinship.jl): Calculates various empirical and theoretical kinship coefficients, based on pedigree or genotype data.
 
+I enjoy sharing my knowledge with others, so here are a few tutorials I made:
+
++ [Interfacing Julia with R/Python/C++](https://github.com/biona001/teaching/blob/master/2024_julia_in_pyRCpp/slides.pdf) (as of early 2024)
++ [A general introduction to Julia](https://github.com/biona001/teaching/blob/master/2022_Julia_tutorial/5.12.2022.julia.ipynb) (2022 version)
++ [A tutorial for multithreading and parallel computation in Julia](https://htmlpreview.github.io/?https://github.com/biona001/teaching/blob/master/Julia_multithreading_gotchas/multithreading_tutorial.html).
++ [Some notes on random graph theory](https://github.com/biona001/teaching/blob/master/preceptorship%20-%20biomath%20203%20/random%20graph%20theory/lecture.pdf), presented in Biomath 203 at UCLA (2020)
++ [A tutorial to imputation and phasing using MendelImpute.jl](https://htmlpreview.github.io/?https://github.com/OpenMendel/ASHG-OpenMendelWorkshop-2020-Oct/blob/master/07-Impute-Chu/MendelImpute_Tutorial.html) presented at [2020 ASHG meeting](https://learning.ashg.org/products/workshop-julia-meets-mendel-algorithms-and-software-for-modern-genomic-data-analysis) (see [homepage](https://github.com/OpenMendel/Tutorials)).
++ [A tutorial to iterative hard threhsolding (IHT)](https://openmendel.github.io/LangeSymposium-ProgrammingWorkshop-20202022/05-iht/MendelIHT_tutorial.html) presented in the [2020 Lange Symposium](https://github.com/OpenMendel/LangeSymposium-ProgrammingWorkshop-20202022?tab=readme-ov-file).
