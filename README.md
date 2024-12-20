@@ -2,6 +2,7 @@ Here are some of my past and ongoing projects, which I think are pretty cool. No
 
 **I am the main developer for** (more recent projects are listed first):
 
++ [sweepy](https://github.com/biona001/sweepy): Python package implementing the statistical sweep operation
 + [RootCauseDiscovery](https://github.com/Jinzhou-Li/RootCauseDiscovery): Python and Julia package for detecting disease-causing genes in rare disease patients from gene expression data
 + [GhostKnockoffGWAS](https://github.com/biona001/GhostKnockoffGWAS): Package for performing knockoff-based analysis for GWAS summary statistics data
 + [Ghostbasil.jl](https://github.com/biona001/Ghostbasil.jl): (WIP) Provides Julia wrappers to the C++ code of [ghostbasil](https://github.com/JamesYang007/ghostbasil)
